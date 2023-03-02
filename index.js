@@ -48,7 +48,7 @@ const getQuotes = async () => {
     newQuoteauthor.textContent = author;
     complead();
   } catch (error) {
-    alert('Api has Some Error ❗')
+    alert("Api has Some Error ❗❗ Please Reload this Page Again");
   }
 };
 
